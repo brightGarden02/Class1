@@ -70,7 +70,7 @@ public class RegisterActivity extends AppCompatActivity {
                                 dialog.show();
                                 join_email.setEnabled(false); // 아이디값 고정
                                 validate = true; // 검증 완료
-                                check_button.setBackgroundColor(getResources().getColor(R.color.colorGray));
+//                                check_button.setBackgroundColor(ContextCompat.getColor(check_button, R.color.colorGray));
 
                             }
                             else{

@@ -17,7 +17,13 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".LoginRequest"/>
+        <activity android:name=".RegisterActivity"/>
+        <activity android:name=".RegisterRequest"/>
         <activity android:name=".SubActivity"/>
+        <activity android:name=".ValidateRequest"/>
+
     </application>
 
 </manifest>
