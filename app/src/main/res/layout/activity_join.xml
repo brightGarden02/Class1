@@ -15,8 +15,8 @@
         android:text="회원가입"
         android:textSize="30sp"
         android:textStyle="bold"
-        app:layout_constraintBotton_toTopOf="@+id/join_name"
-        app:layout_constraintEnd_to_endOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/join_name"
+        app:layout_constraintEnd_to_EndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="55dp" />
 
